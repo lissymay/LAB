@@ -1,0 +1,1 @@
+       Written by Richard M. Stallman and David MacKenzie.

@@ -1,0 +1,10 @@
+/home/lissy/Public
+/home/lissy/Videos
+/home/lissy/Desktop
+/home/lissy/Templates
+/home/lissy/.mozilla/extensions
+/home/lissy/.cache/obexd
+/home/lissy/.gnupg/private-keys-v1.d
+/home/lissy/.config/goa-1.0
+/home/lissy/.vscode/cli
+/home/lissy/Music
