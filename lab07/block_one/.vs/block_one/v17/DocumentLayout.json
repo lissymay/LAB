@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lab07\\block_one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBC0AB1-7247-457A-9CF8-EEAE2D2D533D}|block_one\\block_one.pyproj|D:\\lab07\\block_one\\block_one\\block_one.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DBC0AB1-7247-457A-9CF8-EEAE2D2D533D}|block_one\\block_one.pyproj|solutionrelative:block_one\\block_one.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "block_one.py",
+              "DocumentMoniker": "D:\\lab07\\block_one\\block_one\\block_one.py",
+              "RelativeDocumentMoniker": "block_one\\block_one.py",
+              "ToolTip": "D:\\lab07\\block_one\\block_one\\block_one.py",
+              "RelativeToolTip": "block_one\\block_one.py",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-17T06:07:57.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

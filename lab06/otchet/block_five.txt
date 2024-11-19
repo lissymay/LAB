@@ -1,0 +1,32 @@
+def gcd(a, b):
+    while b != 0:
+        a, b = b, a % b
+    return a
+
+def divide_fractions(A, B, C, D):
+    numerator = A * D
+    denominator = B * C
+    greatest_common_divisor = gcd(numerator, denominator)
+    numerator //= greatest_common_divisor
+    denominator //= greatest_common_divisor
+    return numerator, denominator
+
+A, B = 1, 2 
+C, D = 3, 4 
+
+result_numerator, result_denominator = divide_fractions(A, B, C, D)
+print(f"Результат деления: {result_numerator}/{result_denominator}")
+
+___________
+def arithmetic_sum(a, d, n):
+    if n == 1:
+        return a
+    else:
+        return a + arithmetic_sum(a + d, d, n - 1)
+
+a = 2  
+d = 3  
+n = 5  
+
+result_sum = arithmetic_sum(a, d, n)
+print(f"Сумма первых {n} членов прогрессии: {result_sum}")

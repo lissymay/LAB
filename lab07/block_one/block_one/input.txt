@@ -1,0 +1,6 @@
+This is a short line.
+And this is a much longer line of text that should appear higher in the sorted output.
+Short.
+Here is another line with more content.
+Tiny.
+Another example of a long line of text that will be sorted by its length.

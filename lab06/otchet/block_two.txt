@@ -1,0 +1,23 @@
+def sum_of_squares(a):
+    if 0 <= a <= 50:
+        sum_of_squares = 0
+        for i in range(a, 51):
+            sum_of_squares += i**2
+        return sum_of_squares
+    else:
+        return "Некорректный ввод! Введите число от 0 до 50."
+
+def find_min_K(N):
+    if N > 1:
+        K = 0
+        while 5**K <= N:
+            K += 1
+        return K
+    else:
+        return "Некорректный ввод! Введите число больше 1."
+
+a = 5
+print(f"Сумма квадратов всех целых чисел от {a} до 50: {sum_of_squares(a)}")
+
+N = 10
+print(f"Наименьшее целое число K, при котором 5^K > {N}: {find_min_K(N)}")

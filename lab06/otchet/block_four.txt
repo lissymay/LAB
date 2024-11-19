@@ -1,0 +1,36 @@
+def find_duplicates(lst):
+    seen = set()
+    duplicates = set()
+    for item in lst:
+        if item in seen:
+            duplicates.add(item)
+        else:
+            seen.add(item)
+    if duplicates:
+        print("Повторяющиеся элементы:", duplicates)
+    else:
+        print("Повторяющихся элементов нет.")
+
+lst = [5, 3, 4, 7, 6, 6, 9, 10, 7]
+find_duplicates(lst)
+_________________
+def transform_array(arr):
+    transformed_arr = []
+    for item in arr:
+        if item < 10:
+            transformed_arr.append(0)
+        elif item > 20:
+            transformed_arr.append(1)
+        else:
+            transformed_arr.append(item)
+    return transformed_arr
+
+# Пример использования
+original_array = [1, 5, 12, 23, 9, 18, 25, 4, 11, 30, 8, 15, 7, 21, 14]
+
+# Преобразуем массив
+transformed_array = transform_array(original_array)
+
+# Выводим результаты
+print("Первоначальный массив:", original_array)
+print("Преобразованный массив:", transformed_array)
