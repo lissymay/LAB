@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\lab07\\block_one\\",
+  "WorkspaceRootPath": "D:\\GitHub\\GitHub\\LAB\\lab07\\block_one\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DBC0AB1-7247-457A-9CF8-EEAE2D2D533D}|block_one\\block_one.pyproj|D:\\lab07\\block_one\\block_one\\block_one.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{0DBC0AB1-7247-457A-9CF8-EEAE2D2D533D}|block_one\\block_one.pyproj|D:\\GitHub\\GitHub\\LAB\\lab07\\block_one\\block_one\\block_one.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0DBC0AB1-7247-457A-9CF8-EEAE2D2D533D}|block_one\\block_one.pyproj|solutionrelative:block_one\\block_one.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "block_one.py",
-              "DocumentMoniker": "D:\\lab07\\block_one\\block_one\\block_one.py",
+              "DocumentMoniker": "D:\\GitHub\\GitHub\\LAB\\lab07\\block_one\\block_one\\block_one.py",
               "RelativeDocumentMoniker": "block_one\\block_one.py",
-              "ToolTip": "D:\\lab07\\block_one\\block_one\\block_one.py",
+              "ToolTip": "D:\\GitHub\\GitHub\\LAB\\lab07\\block_one\\block_one\\block_one.py",
               "RelativeToolTip": "block_one\\block_one.py",
-              "ViewState": "AQIAABwAAAAAAAAAAAAiwC4AAAAoAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-11-17T06:07:57.347Z",
               "EditorCaption": ""
