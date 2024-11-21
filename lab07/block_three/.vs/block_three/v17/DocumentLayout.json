@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\lab07\\block_three\\",
+  "WorkspaceRootPath": "D:\\GitHub\\GitHub\\LAB\\lab07\\block_three\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62A24714-D2DB-4BF4-BC30-0C04B24AD750}|block_three\\block_three.pyproj|D:\\lab07\\block_three\\block_three\\block_three.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{62A24714-D2DB-4BF4-BC30-0C04B24AD750}|block_three\\block_three.pyproj|D:\\GitHub\\GitHub\\LAB\\lab07\\block_three\\block_three\\block_three.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{62A24714-D2DB-4BF4-BC30-0C04B24AD750}|block_three\\block_three.pyproj|solutionrelative:block_three\\block_three.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "block_three.py",
-              "DocumentMoniker": "D:\\lab07\\block_three\\block_three\\block_three.py",
+              "DocumentMoniker": "D:\\GitHub\\GitHub\\LAB\\lab07\\block_three\\block_three\\block_three.py",
               "RelativeDocumentMoniker": "block_three\\block_three.py",
-              "ToolTip": "D:\\lab07\\block_three\\block_three\\block_three.py",
+              "ToolTip": "D:\\GitHub\\GitHub\\LAB\\lab07\\block_three\\block_three\\block_three.py",
               "RelativeToolTip": "block_three\\block_three.py",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-11-17T06:37:18.966Z",
               "EditorCaption": ""
