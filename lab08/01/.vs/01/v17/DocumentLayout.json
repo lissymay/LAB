@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536B6F69-2AC1-40F1-80FB-10E085513A30}|01\\01.pyproj|D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\01\\01\\_01.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{536B6F69-2AC1-40F1-80FB-10E085513A30}|01\\01.pyproj|solutionrelative:01\\_01.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_01.py",
+              "DocumentMoniker": "D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\01\\01\\_01.py",
+              "RelativeDocumentMoniker": "01\\_01.py",
+              "ToolTip": "D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\01\\01\\_01.py",
+              "RelativeToolTip": "01\\_01.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-07T11:36:17.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
