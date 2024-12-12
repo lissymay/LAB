@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\02\\",
+  "WorkspaceRootPath": "D:\\GitHub\\GitHub\\LAB\\lab08\\02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00238B16-C182-474F-92CB-CD0BA806AB70}|02\\02.pyproj|D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\02\\02\\_02.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{00238B16-C182-474F-92CB-CD0BA806AB70}|02\\02.pyproj|D:\\GitHub\\GitHub\\LAB\\lab08\\02\\02\\_02.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{00238B16-C182-474F-92CB-CD0BA806AB70}|02\\02.pyproj|solutionrelative:02\\_02.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_02.py",
-              "DocumentMoniker": "D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\02\\02\\_02.py",
+              "DocumentMoniker": "D:\\GitHub\\GitHub\\LAB\\lab08\\02\\02\\_02.py",
               "RelativeDocumentMoniker": "02\\_02.py",
-              "ToolTip": "D:\\\u0442\u0435\u0441\u0442\u044B\\lab08\\02\\02\\_02.py",
+              "ToolTip": "D:\\GitHub\\GitHub\\LAB\\lab08\\02\\02\\_02.py",
               "RelativeToolTip": "02\\_02.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-12-07T12:29:10.356Z",
               "EditorCaption": ""
